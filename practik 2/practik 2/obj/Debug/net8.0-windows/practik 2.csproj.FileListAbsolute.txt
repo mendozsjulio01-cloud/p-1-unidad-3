@@ -1,0 +1,16 @@
+C:\Users\alexc\source\repos\practik 2\practik 2\obj\Debug\net8.0-windows\practik_2.Form1.resources
+C:\Users\alexc\source\repos\practik 2\practik 2\obj\Debug\net8.0-windows\practik 2.csproj.GenerateResource.cache
+C:\Users\alexc\source\repos\practik 2\practik 2\obj\Debug\net8.0-windows\practik 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\practik 2\practik 2\obj\Debug\net8.0-windows\practik 2.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\practik 2\practik 2\obj\Debug\net8.0-windows\practik 2.AssemblyInfo.cs
+C:\Users\alexc\source\repos\practik 2\practik 2\obj\Debug\net8.0-windows\practik 2.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\practik 2\practik 2\bin\Debug\net8.0-windows\practik 2.exe
+C:\Users\alexc\source\repos\practik 2\practik 2\bin\Debug\net8.0-windows\practik 2.deps.json
+C:\Users\alexc\source\repos\practik 2\practik 2\bin\Debug\net8.0-windows\practik 2.runtimeconfig.json
+C:\Users\alexc\source\repos\practik 2\practik 2\bin\Debug\net8.0-windows\practik 2.dll
+C:\Users\alexc\source\repos\practik 2\practik 2\bin\Debug\net8.0-windows\practik 2.pdb
+C:\Users\alexc\source\repos\practik 2\practik 2\obj\Debug\net8.0-windows\practik 2.dll
+C:\Users\alexc\source\repos\practik 2\practik 2\obj\Debug\net8.0-windows\refint\practik 2.dll
+C:\Users\alexc\source\repos\practik 2\practik 2\obj\Debug\net8.0-windows\practik 2.pdb
+C:\Users\alexc\source\repos\practik 2\practik 2\obj\Debug\net8.0-windows\practik 2.genruntimeconfig.cache
+C:\Users\alexc\source\repos\practik 2\practik 2\obj\Debug\net8.0-windows\ref\practik 2.dll
